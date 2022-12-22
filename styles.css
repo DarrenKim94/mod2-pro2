@@ -1,35 +1,32 @@
 .kayak, .phone {
-    min-width: 100%;
+    max-width: 100%;
     height: auto;
 }
 
 .header {
     background-image: url('https://i.natgeofe.com/n/1fcbc190-9968-4466-93b4-f32241c835e3/mount-fuji-clouds-weather-japan_16x9.jpg');
     width: 100%;
-    min-height: 100%;
+    min-height: 800px;
     background-size: cover;
 }
 
+.box-1, .box-2, .box-3{
+    background-size: cover;
+    min-height: 200px;
+    text-align: center;
+    padding-top: 5em;
+}
 
 .box-1 {
     background-image: url('https://cdn.britannica.com/98/214598-050-9879F2FA/giant-sequoia-tree-Sequoia-National-Park-California.jpg');
-    width: 100%;
-    min-height: 100%;
-    background-size: cover;
 }
 
 .box-2 {
     background-image: url('https://travel.home.sndimg.com/content/dam/images/travel/fullset/2012/08/20/70/waterfall-wonders_ss_001.rend.hgtvcom.966.725.suffix/1491581026366.jpeg');
-    width: 100%;
-    min-height: 100%;
-    background-size: cover;
 }
 
 .box-3 {
     background-image: url('https://pediaa.com/wp-content/uploads/2016/01/Difference-Between-Creek-and-Stream-image-1.jpg');
-    width: 100%;
-    min-height: 100%;
-    background-size: cover;
 }
 
 
