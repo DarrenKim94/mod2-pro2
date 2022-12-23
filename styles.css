@@ -5,13 +5,26 @@
     height: auto;
 }
 
-
 .header {
     background-image: url('https://i.natgeofe.com/n/1fcbc190-9968-4466-93b4-f32241c835e3/mount-fuji-clouds-weather-japan_16x9.jpg');
     width: 100%;
-    height: 550px;
+    height: 700px;
     background-size: cover;
     padding-top: 10em;
+}
+
+.header-text {
+    font-size: 6em;
+}
+
+.apple {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.piece {
+    text-decoration: none;
+    color: white;
 }
 
 .box-1, .box-2, .box-3{
@@ -41,4 +54,8 @@
     background-image: url('https://pediaa.com/wp-content/uploads/2016/01/Difference-Between-Creek-and-Stream-image-1.jpg');
 }
 
+.contact {
+    padding-top: 6em;
+    padding-bottom: 6em;
+}
 
